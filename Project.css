@@ -1,0 +1,18 @@
+h1{
+    display: flex;
+    border: 1px solid ;
+    border-color: #cbc8c8;
+    height: 40px;
+    background-color: #cbc8c8
+
+}
+
+img{
+    margin-inline: auto;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
