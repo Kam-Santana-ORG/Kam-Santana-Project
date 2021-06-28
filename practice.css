@@ -1,0 +1,15 @@
+/*project 2 css */
+
+.container{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+}
+
+.my-col {
+    border: 5px dotted red;
+}
+
+.my-row {
+    border: 2px solid black;
+}
