@@ -13,3 +13,7 @@
 .my-row {
     border: 2px solid black;
 }
+
+a:hover{
+    color:black;
+}
