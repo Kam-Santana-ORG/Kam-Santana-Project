@@ -2,3 +2,12 @@ div.row{
    box-sizing: border-box;
  background-color: rgba(213, 209, 209, 0.68);
 }
+*{
+    background-color: rgba(213, 209, 209, 0.68);;
+}
+
+.btn{
+    border-radius: 50%;
+    width: 50px;
+    height: 100px;
+} /* circle template */
