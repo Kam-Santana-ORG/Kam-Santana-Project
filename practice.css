@@ -34,9 +34,24 @@ body{
     /*padding: 40px 40px 0 40px;*/
 }
 
+<<<<<<< HEAD
 
 /********* font link below *********/
 /*<link rel="preconnect" href="https://fonts.googleapis.com">*/
 /*                                                          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>*/
 /*                                                                                                                  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">*/
 /*                                                                                                                                                                                                           */
+=======
+.my-row {
+    border: 2px solid black;
+}
+
+a:hover{
+    color:black;
+}
+
+#emptyb{
+    background-color: white;
+    height: 80px;
+}
+>>>>>>> aa92557e19b30e799de6e6b9acc2c1392fa5591d

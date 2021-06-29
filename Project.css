@@ -33,6 +33,7 @@ body{
     justify-content: center;
     /*padding: 40px 40px 0 40px;*/
 }
+<<<<<<< HEAD
 
 #emptyb{
     background-color: white;
@@ -42,8 +43,20 @@ body{
     margin: 0;
 }
 
+=======
+#logo{
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+ border-width:  10px;
+}
+#emptyb{
+    background-color: white;
+    height: 80px;
+}
+>>>>>>> aa92557e19b30e799de6e6b9acc2c1392fa5591d
 /********* font link below *********/
 /*<link rel="preconnect" href="https://fonts.googleapis.com">*/
-/*                                                          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>*/
+/*                                                              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>*/
 /*                                                                                                                  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">*/
 /*                                                                                                                                                                                                           */
