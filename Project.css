@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(213, 209, 209, 0.68);
+    background-color: #E6E6E6; /* rgba(213, 209, 209, 0.68) */
 }
 .circle{
     display: flex;
@@ -35,7 +35,7 @@ body{
 }
 
 #emptyb{
-    background-color: white;
+    background-color: #F0F0F0;
     height: 60px;
     /*width: 100%;*/
     /*margin: 0*/
