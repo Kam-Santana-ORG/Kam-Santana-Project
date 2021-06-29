@@ -17,3 +17,8 @@
 a:hover{
     color:black;
 }
+
+#emptyb{
+    background-color: white;
+    height: 80px;
+}
