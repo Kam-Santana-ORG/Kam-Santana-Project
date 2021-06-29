@@ -33,7 +33,6 @@ body{
     justify-content: center;
     /*padding: 40px 40px 0 40px;*/
 }
-<<<<<<< HEAD
 
 #emptyb{
     background-color: white;
@@ -43,7 +42,6 @@ body{
     margin: 0;
 }
 
-=======
 #logo{
     background-color: white;
     border-color: white;
@@ -53,8 +51,15 @@ body{
 #emptyb{
     background-color: white;
     height: 80px;
+    margin: 0
+    padding-top: 10px;
 }
->>>>>>> aa92557e19b30e799de6e6b9acc2c1392fa5591d
+
+
+
+
+
+
 /********* font link below *********/
 /*<link rel="preconnect" href="https://fonts.googleapis.com">*/
 /*                                                              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>*/
