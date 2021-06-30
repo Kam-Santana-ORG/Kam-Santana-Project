@@ -1,5 +1,5 @@
 body{
-    background-color: #E6E6E6; /* rgba(213, 209, 209, 0.68) */
+    background-color: #e6e6e6; /* rgba(213, 209, 209, 0.68) */
 }
 .circle{
     display: flex;
@@ -18,7 +18,7 @@ body{
     background-color: #E6563B;
 }
 .orangish {
-    background-color: #DEA03D;
+    background-color: #eb9d3a;
 }
 .greenish {
     background-color: #7CB06C;
@@ -47,8 +47,9 @@ body{
 }
 
 
-
-
+#line{
+    border-top: 1px solid #ada9a9;
+}
 
 
 /********* font link below *********/
